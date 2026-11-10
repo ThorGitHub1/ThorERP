@@ -1,0 +1,12 @@
+*.bak
+*.tmp
+*.log
+
+.vscode/
+.idea/
+
+postgres-data/
+backup/
+
+*.dump
+*.backup
